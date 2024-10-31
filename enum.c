@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 //enumeration is a derived data type that takes variales as terms and assign them with numerical values starting from 0
 //difference between enum and #define is that enum can be declared locally whereas #define can't be declared locally
 // Gobal enum
